@@ -1,0 +1,5 @@
+{
+  "name": "WikiTalk AI",
+  "description": "A ChatGPT-like interface that answers questions using Wikipedia data and Gemini AI summarization, supporting English, Bulgarian, and Russian.",
+  "requestFramePermissions": []
+}
